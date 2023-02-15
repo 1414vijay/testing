@@ -37,6 +37,9 @@ public class UseBike {
 				System.out.println(x.getBrand()+" is local brand");
 			}
 		});
+		String name="VIJAY";
+		System.out.println(name.concat("vairamuthu"));
+		
 		
 	}
 
